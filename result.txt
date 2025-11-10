@@ -1,0 +1,12 @@
+ETTh1_96_96_FreqCycle_ETTh1_ftM_sl96_pl96_cycle24_mlp_seed2024  
+mse:0.3703559339046478, mae:0.3920263350009918
+
+Electricity_96_96_FreqCycle_custom_ftM_sl96_pl96_cycle168_mlp_seed2026  
+mse:0.13859613239765167, mae:0.23292985558509827
+
+ETTh2_168_96_MFreqCycle_customM_ftM_sl168_pl96_cycle24_mlp_seed2024  
+mse:0.1844666600227356, mae:0.29669395089149475
+
+ETTh2_168_192_MFreqCycle_customM_ftM_sl168_pl192_cycle24_mlp_seed2024  
+mse:0.21632042527198792, mae:0.32229533791542053
+
